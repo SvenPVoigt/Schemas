@@ -1,0 +1,8 @@
+{
+  "@context": {
+    "contentUrl": {
+      "@id": "https://github.com/SvenPVoigt/Schemas#contentUrl",
+      "@type": "@id"
+    }
+  }
+}
